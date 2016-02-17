@@ -27,7 +27,6 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 
 gem 'sorcery'
-gem 'haml-rails'
 gem 'bootstrap-sass'
 
 # Use ActiveModel has_secure_password
